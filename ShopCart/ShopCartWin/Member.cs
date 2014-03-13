@@ -8,7 +8,9 @@ namespace ShopCartWin
 {
     public class Member
     {
-
+        /// <summary>
+        /// 主键
+        /// </summary>
         public int Id { get; set; }
 
         public string UserName { get; set; }
